@@ -1,0 +1,50 @@
+		#top
+		{
+			padding-top:100px; 
+		}
+		.border
+		{
+			border:1px solid black; 
+		}
+		.height
+		{
+			min-height:300px;
+			background-color:rgba(245,245,245,1);
+			box-shadow:1px 1px 10px;
+			border-radius:10px;    
+		}
+		hr
+		{
+			border-top:1px dotted black; 
+		}
+		.form
+		{
+			margin-top:20px; 
+		}
+		.no-padding
+		{
+			padding-left:0px;
+			padding-right:0px;  
+		}
+		.no-margin
+		{
+			margin-right: -15px;
+    		margin-left: -15px;
+		}
+		.margin
+		{
+			margin-left:15px;
+			margin-right:15px;  
+		}
+		input[type=submit]
+		{
+			margin-top:10px; 
+		}
+		.sujan a
+		{
+			color:black; 
+		}
+		.sujan a:hover
+		{
+			text-decoration:none;  
+		}

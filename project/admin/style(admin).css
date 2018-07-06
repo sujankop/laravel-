@@ -1,0 +1,55 @@
+.navbar
+{
+	min-height:50px;
+	line-height:50px;
+	margin-bottom:5px;   
+}
+.welcome,.user
+{
+	text-align:center;
+	font-size:40px;  
+}
+.no-padding
+{
+	padding-left:0px;
+	padding-right:0px;  
+}
+.border
+{
+	border:1px solid black;
+}
+.height
+{
+	min-height:700px;
+}
+.sidenavs
+{
+	font-size:30px;   
+}
+.sidenavs li a
+{
+	color:black;
+}
+.sidenavs li a:focus
+{
+	background-color:black;
+	color:white;  
+}
+.sidenavs li a:hover
+{
+	background-color:black;
+	color:white; 	
+}
+.add form
+{
+	height:auto;  
+}
+.add textarea
+{
+	height:300px; 
+	resize:none; 
+}
+.for-article
+{
+	font-size:30px 
+}

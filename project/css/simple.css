@@ -1,0 +1,105 @@
+body, html {
+    height: 100%;
+    color: #777;
+    line-height: 1.8;
+    margin:0px;
+    padding:0px;   
+}
+.main
+{
+	height:100%;
+	width:100%;  
+}
+.hero-relative
+{
+	position:relative; 
+}
+.hero-absolute
+{
+	position:absolute;  /*if hero-absolute is inside of hero-relative div*/ 
+}
+.hero-absolute-middle
+{
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);  
+}
+.display-text-white
+{
+	color:white;
+}
+.no-padding-left-right
+{
+	padding-left:0px;
+	padding-right:0px;  
+}
+.no-padding-top-bottom
+{
+	padding-top:0px;
+	padding-bottom:0px; /*rarely used*/  
+}
+.text-center
+{
+	text-align:center; 
+}
+.background-responsive
+{
+	background-position:center;
+	background-size:100% 100%;  
+}
+.display-transparent-0
+{
+	background-color:rgba(245,245,245,0);
+}
+.display-transparent-1
+{
+	background-color:rgba(245,245,245,0.1);
+}
+.display-transparent-2
+{
+	background-color:rgba(245,245,245,0.2);
+}
+.display-transparent-3
+{
+	background-color:rgba(245,245,245,0.3);
+}
+.display-transparent-4
+{
+	background-color:rgba(245,245,245,0.4);
+}
+.display-transparent-5
+{
+	background-color:rgba(245,245,245,0.5);
+}
+.display-transparent-6
+{
+	background-color:rgba(245,245,245,0.6);
+}
+.display-transparent-7
+{
+	background-color:rgba(245,245,245,0.7);
+}
+.display-transparent-8
+{
+	background-color:rgba(245,245,245,0.8);
+}
+.display-transparent-9
+{
+	background-color:rgba(245,245,245,0.9);
+}
+.display-transparent-10
+{
+	background-color:rgba(245,245,245,1);
+}
+@media screen and (max-width:971px)
+{
+	.portmargin
+	{
+		margin-top:10px; 
+	}
+	.media-nopadding
+	{
+		padding-left:0px;
+		padding-right:0px;  
+	}
+}

@@ -1,0 +1,29 @@
+#tohide
+{
+	display:none; 
+}
+.navbar
+{
+	margin-bottom:0px; 
+}
+.navbar-default .navbar-nav>li>a:hover
+{
+	color:white;
+	background-color:black;  
+}
+.navbar-default .navbar-nav>li>a
+{
+	font-size:20px; 
+}
+.border
+{
+	border:1px solid black;
+}
+.logo
+{
+	min-height:300px;  
+}
+.body
+{
+	min-height:100%; 
+}	
